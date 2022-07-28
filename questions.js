@@ -12,7 +12,7 @@ const qBank = [
   {
     question: 'Who is your Best Friend',
     answers: ['Sathiya', 'Tulika', 'Sonam', 'Kartik'],
-    correct: 'HTC',
+    correct: 'Tulika',
   },
   {
     question: 'Where does lion live?',
