@@ -1,3 +1,8 @@
 # quiz-react-PJha
+Steps To Run
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quiz-react-hijbro)
+1- Clone the repository
+2- Npm i/install
+3- Npm start.
+
+---End---
