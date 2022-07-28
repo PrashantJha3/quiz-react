@@ -1,0 +1,72 @@
+h1, p {
+  font-family: Lato;
+}
+
+.title {
+  position: relative;
+  background-color: rgb(201, 26, 26);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.8em;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.question {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.questionBox {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 5px;
+  padding: 15px;
+  box-sizing: border-box;
+  background-color: rgb(250, 250, 250);
+}
+
+.answerBtn {
+  padding: 10px 10px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px #999;
+  margin-left:10px;
+  margin-bottom: 10px;
+}
+
+.answerBtn:hover {background-color: #3e8e41}
+
+.answerBtn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.score {
+  font-size: 3em;
+  top: 250px;
+  text-align: center;
+}
+
+.playBtn {
+  position: absolute;
+  font-size: 1.4em;
+  padding: 10px;
+  top: 350px;
+  background-color: rgb(46, 182, 46);
+  color: rgb(255, 255, 255);
+  width: 150px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  outline: none;
+  cursor: pointer;
+}
